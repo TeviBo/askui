@@ -1,0 +1,23 @@
+#Allure
+allure-results
+
+#node packages
+node_modules
+
+#Reports
+report
+reports
+
+#Apps
+*.apk
+
+
+#Datos de entorno
+.env
+
+# Configuraciones de IDE
+.idea
+.vscode
+
+#Archivos de configuración
+package-lock.json
